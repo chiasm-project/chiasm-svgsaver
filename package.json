@@ -1,0 +1,26 @@
+{
+  "name": "chiasm-svgsaver",
+  "version": "0.0.1",
+  "description": "A Chiasm component for saving SVG data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chiasm-project/chiasm-svgsaver.git"
+  },
+  "keywords": [
+    "svg",
+    "FileSaver"
+  ],
+  "author": "C. Kelleher and J. Harshbarger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiasm-project/chiasm-svgsaver/issues"
+  },
+  "homepage": "https://github.com/chiasm-project/chiasm-svgsaver",
+  "dependencies": {
+    "svgsaver": "0.0.1"
+  }
+}
