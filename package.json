@@ -22,15 +22,15 @@
   "homepage": "https://github.com/chiasm-project/chiasm-svgsaver",
   "dependencies": {
     "chiasm-component": "^0.2.3",
-    "d3": "^3.5.6",
+    "d3": "^3.5.10",
     "model-js": "^0.2.4",
-    "svgsaver": "^0.4.0"
+    "svgsaver": "^0.6.1"
   },
   "devDependencies": {
-    "chai": "^3.3.0",
+    "chai": "^3.4.1",
     "chiasm": "^0.2.3",
     "chiasm-layout": "^0.2.4",
-    "jsdom": "^7.0.2",
-    "mocha": "^2.3.3"
+    "jsdom": "^7.1.0",
+    "mocha": "^2.3.4"
   }
 }
